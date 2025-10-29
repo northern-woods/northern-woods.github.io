@@ -1,4 +1,4 @@
-## This Website Is Still Under Construction
+## Website Still Under Construction
 
 <br>
 
