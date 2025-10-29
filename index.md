@@ -16,6 +16,6 @@
 <img src="images/gnpcc_thumbnail.jpg?raw=true"/>
 
 ---
-### [Kamloops Sewage Treatment Centre Upgrade (Secondary Clarifiers) - 2013](/GNPCC)
-<img src="images/gnpcc_thumbnail.jpg?raw=true"/>
+### [Kamloops Sewage Treatment Centre Upgrade (Secondary Clarifiers) - 2013](/kamloops)
+<img src="images/kamloops_1.jpg?raw=true"/>
 
